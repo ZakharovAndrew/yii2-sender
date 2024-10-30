@@ -1,2 +1,7 @@
-# yii2-sender
-Module for sending emails and messages in Telegram to users.
+# Yii2 Sender
+
+[![Latest Stable Version](https://poser.pugx.org/zakharov-andrew/yii2-sender/v/stable)](https://packagist.org/packages/zakharov-andrew/yii2-sender)
+[![License](https://poser.pugx.org/zakharov-andrew/yii2-sender/license)](https://packagist.org/packages/zakharov-andrew/yii2-sender)
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+
+Yii2 module for sending emails and messages in Telegram to users.
