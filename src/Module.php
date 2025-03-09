@@ -5,7 +5,7 @@
  * *************
  *  
  * @link https://github.com/ZakharovAndrew/yii2-sender/
- * @copyright Copyright (c) 2024 Zakharov Andrew
+ * @copyright Copyright (c) 2024-2025 Zakharov Andrew
  */
  
 namespace ZakharovAndrew\user;
