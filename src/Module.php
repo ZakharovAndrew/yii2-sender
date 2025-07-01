@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2024-2025 Zakharov Andrew
  */
  
-namespace ZakharovAndrew\user;
+namespace ZakharovAndrew\sender;
 
 use Yii;
 
